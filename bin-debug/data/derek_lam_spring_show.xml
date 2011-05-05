@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- time is in seconds -->
+<video url="videos/Derek Lam Show_FINAL.f4v" name="Derek Lam Spring Show">
+	<cuepoint time_start="40" time_end="50" action="tompecheux" x="519" y="39" tooltip="Meet Tom Pecheux"><![CDATA[Meet Tom Pecheux]]></cuepoint>
+	<cuepoint time_start="20" time_end="30" action="tabview" x="549" y="39" tooltip="Get this look"><![CDATA[Get this look]]></cuepoint>
+	<cuepoint time_start="70" time_end="75" action="makeuptest" x="489" y="39" tooltip="Watch the pre-show make-up test."><![CDATA[Watch the pre-show make-up test.]]></cuepoint>
+</video>

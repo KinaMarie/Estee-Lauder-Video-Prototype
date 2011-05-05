@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- time is in seconds -->
+<video url="videos/Asia_06_SimpleSmoky_FINAL-H264_1_2.f4v" name="Simple Smoky">
+	<cuepoint time_start="3" time_end="8" action="infoliuwen" x="489" y="39" tooltip="Read about Liu Wen's debut."><![CDATA[Read about Liu Wen's debut]]></cuepoint>
+	<cuepoint time_start="23" time_end="31" action="infoproducts" x="544" y="39" tooltip="Buy Products"><![CDATA[Buy Products]]></cuepoint>
+	<cuepoint time_start="65" time_end="73" action="comment" x="489" y="39" tooltip="Post a comment about this video."><![CDATA[Post a comment about this video.]]></cuepoint>
+</video>

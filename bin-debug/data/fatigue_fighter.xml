@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- time is in seconds -->
+<video url="videos/US_02_FatigueFighter_FINAL-H264.f4v" name="Fatigue Fighter">
+	<cuepoint time_start="3" time_end="8" action="mirror" x="380" y="39" tooltip="Click on the My Mirror icon to start your own simultaneous make-over."><![CDATA[Click on the My Mirror icon to start your own simultaneous make-over.]]></cuepoint>
+	<cuepoint time_start="37" time_end="45" action="rateconcealer" x="399" y="39" tooltip="See what people are saying about Advanced Night Repair Eye. Read all reviews"><![CDATA[See what people are saying about Advanced Night Repair Eye. <br>Read all reviews.]]></cuepoint>
+	<cuepoint time_start="49" time_end="56" action="share" x="519" y="39" tooltip="Did you like this video?"><![CDATA[Did you like this video?<br>Share it with friends.]]></cuepoint>
+</video>
